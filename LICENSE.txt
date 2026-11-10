@@ -1,0 +1,34 @@
+INDX Audio Sound Pack: License
+
+Copyright (c) 2026 RMKSOUND Oy (Business ID 3647458-2), Ilmajoki, Finland.
+All sounds and music in this pack were recorded or created by RMKSOUND.
+
+1. What you may do
+   You may use the sounds and music in this pack, for free, in your own projects,
+   including commercial ones: theatre and live shows, film, video,
+   games, podcasts, apps and advertising. You may edit, layer, process
+   and combine the sounds. No credit is required, but it is appreciated.
+
+2. What you may not do
+   - Do not sell, share or redistribute the sounds, edited or not, as
+     a sound library, sample pack, sound effects collection or any
+     similar product, whether free or paid.
+   - Do not upload the sounds to a stock audio, sound library or sample
+     marketplace.
+   - Do not use the sounds to train machine learning or AI models.
+   - Do not claim that you recorded the sounds.
+
+3. Sharing the pack
+   Please send people to indx.audio to download their own copy.
+   Do not post the files themselves.
+
+4. No warranty
+   The sounds are provided "as is", without warranty of any kind.
+   RMKSOUND Oy is not liable for any damage arising from their use.
+
+5. Changes
+   RMKSOUND Oy may publish a new version of this license for future
+   downloads. A license that applied when you downloaded the pack stays
+   valid for that copy.
+
+Questions: support@indx.audio
